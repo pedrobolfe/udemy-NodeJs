@@ -1,0 +1,31 @@
+{
+  "name": "udemy-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrobolfe/udemy-NodeJs.git#main"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Pedro Bolfe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrobolfe/udemy-NodeJs/issues"
+  },
+  "homepage": "https://github.com/pedrobolfe/udemy-NodeJs/tree/main#readme"
+}
